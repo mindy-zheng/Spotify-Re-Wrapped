@@ -1,7 +1,7 @@
 # Spotify-Re-Wrapped 
-Spotify Wrapped is my favorite feature Spotify has to offer. It allows me to reminisce different parts of the year. The only downside is anticipating the playlist at the very end of the year. With this application, I utilized Python to fetch my listener profile data and sort the songs in respective time-ranges. 
+Spotify Wrapped is my favorite feature Spotify has to offer. It allows me to reminisce different parts of the year. The only downside is anticipating this feature at the VERY end of the year. With this application, I utilized Python to fetch my listener profile data and sort the songs in respective time-ranges. 
 
-Due to the fact that the API linked only allows a limited amount of users to use their authentication system, email me and I'll grant you access if you'd like a trial. Here's the website: https://myspotifyrewrapped.glide.page/dl/d0a5f4
+Due to the fact that the API linked is purely my data, this serves a personal project and can only be used with my data. Here's the website: https://myspotifyrewrapped.glide.page/dl/d0a5f4
 
 Here are some pictures from my end-product: 
 
